@@ -1,29 +1,40 @@
-# Will you be my valentine?
+# Will You Be My Valentine?
 
-Valentine Page Creator: https://i143.xyz/create
+Welcome to the "Will You Be My Valentine?" project, a playful and interactive way to ask that special someone the big question this Valentine's Day. Hosted as a GitHub Page, this project offers a unique blend of creativity and technology to make your Valentine's Day proposal unforgettable.
 
-Demo : https://saurabhnemade.github.io/will-you-be-my-valentine/
+## Overview
 
-This is a fun project for valentines day to bring smile on face of your special person!!
+"Will You Be My Valentine?" is a web-based application that presents users with the question "Will you be my valentine?" followed by two options: "Yes" and "No". What makes this project special is the interactive and engaging way it handles responses, especially if someone tries to click "No".
 
-This project is inspired from
-https://gist.github.com/tnarla/0c09a11fea366145ba684fe6ebf578c5 & https://www.tiktok.com/@mewtru/video/7331131143112166698
+## Features
 
-# How to start
-```
-npm install -g pnpm
-pnpm i
-pnpm run dev
-```
+- **Interactive Question**: The core of the project is the interactive Valentine's Day proposal.
+- **Responsive Design**: Crafted to look great on both desktop and mobile devices.
+- **Playful Interaction**: If the user attempts to click "No", watch out for a little surprise that might just sway their decision!
 
-# Preview
+## Technology
 
-![image description](demo.gif)
+This project is built using simple yet powerful web technologies:
+- HTML
+- CSS
+- JavaScript
 
+## How to View
 
-# How to deploy it
-```
-pnpm run deploy
-```
+To experience "Will You Be My Valentine?", simply visit [https://byquangthanh.github.io/valentine.github.io/](https://byquangthanh.github.io/valentine.github.io/) from any modern web browser.
 
-Made with ❤️ in Berlin!
+## How to Contribute
+
+Contributions to the "Will You Be My Valentine?" project are more than welcome. Whether it's suggesting new features, improving the design, or fixing bugs, here's how you can contribute:
+
+1. **Fork the Repository**: Start by forking the [project repository](https://github.com/byquangthanh/valentine.github.io) on GitHub.
+2. **Clone Your Fork**: Clone your fork to your local machine for development.
+3. **Create a New Branch**: Make a new branch for your changes.
+4. **Make Your Changes**: Implement your feature, fix, or improvement.
+5. **Commit Your Changes**: Commit your changes with a clear and descriptive commit message.
+6. **Push to Your Fork**: Push your changes up to your fork.
+7. **Open a Pull Request**: Back on GitHub, open a pull request from your fork to the main project.
+
+## Support
+
+If you encounter any issues or have questions about the project, feel free to open an issue on the GitHub repository.
